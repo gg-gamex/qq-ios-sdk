@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TencentOpenAPI(Lite)"
-  spec.version      = "3.5.14.241"
+  spec.version      = "3.5.14"
   spec.summary      = "TencentOpenAPI (Lite) official framework and bundle."
 
   # This description is used to generate tags and improve search results.
