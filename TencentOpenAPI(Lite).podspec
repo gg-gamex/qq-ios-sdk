@@ -119,7 +119,7 @@ Pod::Spec.new do |spec|
   spec.frameworks = "Security", "SystemConfiguration", "CoreGraphics", "CoreTelephony"
 
   # spec.library   = "iconv"
-  spec.libraries = "libiconv", "libsqlite3", "libc++", "libz"
+  spec.libraries = "iconv", "sqlite3", "c++", "z"
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
