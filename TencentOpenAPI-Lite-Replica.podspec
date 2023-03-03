@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "TencentOpenAPI(Lite)"
+  spec.name         = "TencentOpenAPI-Lite-Replica"
   spec.version      = "3.5.14"
   spec.summary      = "TencentOpenAPI (Lite) official framework and bundle."
 
